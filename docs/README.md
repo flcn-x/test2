@@ -16,7 +16,7 @@ $ git push origin master
 ## Requirement  
 $ cd test2  
 $ make html  
-$ $ open _build/html/index.html  
+$ open _build/html/index.html  
 
 ## Usage
 
